@@ -18,6 +18,7 @@ Tampering detection using computed HMAC comparison
 📂 Project Structure
 
 Src/
+ Src/
  ├── code/
  │    ├── hmac_sha256.py
  │    ├── sender.py
@@ -25,9 +26,12 @@ Src/
  │    ├── mallory.py
  │    └── shared_pipe.py
  ├── logs/
-      ├── sender_hmac.txt
-      ├── sender_to_mallory.txt
-      └── mallory_to_receiver.txt
+ │    ├── sender_hmac.txt
+ │    ├── sender_to_mallory.txt
+ │    └── mallory_to_receiver.txt
+ └── PPT/
+      └── HMAC_Presentation.pptx
+
 
 📌 HMAC-SHA256 From Scratch — Secure Message Authentication System
 
