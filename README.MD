@@ -189,4 +189,4 @@ Why raw hashing cannot authenticate messages
 How an attacker fails to forge the correct HMAC
 
 It is a perfect demonstration for networking, security, or cryptography assignments.
--------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------"# HMAC" 
